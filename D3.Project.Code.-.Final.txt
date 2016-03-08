@@ -1,6 +1,6 @@
   /* ========================================
  *
- * Copyright YOUR COMPANY, THE YEAR
+ * Copyright Anish Patel, 2015
  * All Rights Reserved
  * UNPUBLISHED, LICENSED SOFTWARE.
  *
